@@ -1,1 +1,2 @@
-
+My name is Marcus Milons. I’m a 10th-grade student attending Raymond High School in Raymond, Mississippi, with a strong interest in technology, problem-solving, and creative development. For the IT Showcase, I've worked on a project that uses artificial intelligence and computer vision to help assess animal health. It aims to support farmers, pet owners, and veterinarians.
+My experience includes web development with HTML, CSS, and JavaScript. I’m expanding my skills by participating in the Black Data Processing Associates (BDPA) programs, researching, and refining my skills through practice. I enjoy applying STEM knowledge to real-world challenges and always strive to build tools that are meaningful, practical, and aligned with my values.
