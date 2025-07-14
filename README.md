@@ -29,8 +29,8 @@ This project is licensed under the [CC BY-NC 4.0 License](https://creativecommon
 - [Development Journey](./project_history/project_dev_journey.md)
 
 ## 📄 Drafts & Planning
-- [Draft – Version 1](./project_papers/drafted_papers/paper_v1_initial.md)
-- [Draft – Version 2](./project_papers/drafted_papers/paper_v2_revised.md)
+- [Draft – Version 1](./project_papers/drafted_papers/paper_v1_initial_draft.md)
+- [Draft – Version 2](./project_papers/drafted_papers/paper_v2_revised_draft.md)
 - [Brainstorming Notes](./project_documents/petscope_brainstorming.md)
 - [Outline](./project_documents/petscope_outline.md)
 - [Trello Board](./project_documents/petscope_trelloboard.md)
