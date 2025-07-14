@@ -1,44 +1,44 @@
-# animal_health_ai_research_2025
-A 2025 IT Showcase research project exploring how AI and computer vision can be used to improve animal health. Includes the final paper, outlines, drafts, simplified versions, and technical notes aimed at helping farmers, pet owners, and veterinarians.
+# 🐾 Animal Health AI Research – 2025 IT Showcase
 
-## Author: Marcus Milons
-This project was created by Marcus Milons for the 2025 IT Showcase.
+A 2025 IT Showcase research project exploring how artificial intelligence and computer vision can be used to improve animal health. This repository includes the final research paper, drafts, planning documents, and personal reflections — aimed at helping farmers, pet owners, and veterinarians.
 
-Feel free to connect or explore more at:
+---
+
+## 👤 Author: Marcus Milons
+This project was created by Marcus Milons for the 2025 BDPA IT Showcase.
+
+Feel free to connect:
 - GitHub: [@marcusj15](https://github.com/marcusj15)
-- Email: marcusjackson9430@gmail.com
+- 📧 Email: marcusjackson9430@gmail.com
+
+---
 
 ## 📜 License
 This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-# 📚 Table of Contents – Animal Health AI Research (2025)
+---
 
-Welcome! Here’s a quick guide through this project repository:
+# 📚 Table of Contents
 
 ## 🔍 Project Overview
-- [README.md](./README.md)
-- [finalized_paper.md](./project_papers/finalized_paper.md)
-- [simplified_paper.md](./project_papers/simplified_paper.md)
+- [Finalized Research Paper (PDF)](./project_papers/finalized_paper.pdf)
 
 ## 🧾 Project History
 - [Biography](./project_history/biography.md)
 - [Why This Project](./project_history/why_this_project.md)
 - [Development Journey](./project_history/project_dev_journey.md)
 
-## 📄 Research Papers
-- [Finalized](./project_papers/finalized_paper.md)
-- [Finalized Simplifed](./project_papers/simplified_paper.md)
-
-## 🧠 Planning Documents
+## 📄 Drafts & Planning
+- [Draft – Version 1](./project_papers/drafted_papers/paper_v1_initial.md)
+- [Draft – Version 2](./project_papers/drafted_papers/paper_v2_revised.md)
 - [Brainstorming Notes](./project_documents/petscope_brainstorming.md)
 - [Outline](./project_documents/petscope_outline.md)
-- [Trello Board Plan](./project_documents/petscope_trelloboard.md)
+- [Trello Board](./project_documents/petscope_trelloboard.md)
 
 ## 🎤 Closing Remarks
 - [Project Struggles](./closing_remarks/project_struggles.md)
-- [Advice to Others](./closing_remarks/advice.md)
-- [Thank You Notes](./closing_remarks/thank_you.md)
+- [Thank You](./closing_remarks/thank_you.md)
 
 ---
 
-> 🐾 For more context, visit the [README](./README.md)
+> 🐾 Thank you for visiting! Explore the files above to learn more about my project journey and findings.
