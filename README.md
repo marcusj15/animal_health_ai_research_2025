@@ -26,7 +26,7 @@ This project is licensed under the [CC BY-NC 4.0 License](https://creativecommon
 ## 🧾 Project History
 - [Biography](./project_history/biography.md)
 - [Why This Project](./project_history/why_this_project.md)
-- [Development Journey](./project_history/project_dev_journey.md)
+- [Development Journey](./project_history/project_development_journey.md)
 
 ## 📄 Drafts & Planning
 - [Draft – Version 1](./project_papers/drafted_papers/paper_v1_initial_draft.md)
