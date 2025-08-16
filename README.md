@@ -1,4 +1,4 @@
-# 🐾 Animal Health AI Research – 2025 IT Showcase
+# 🐾 PetScope™ Animal Health AI Research – 2025 IT Showcase
 
 A 2025 IT Showcase research project exploring how artificial intelligence and computer vision can be used to improve animal health. This repository includes the final research paper, drafts, planning documents, and personal reflections — aimed at helping farmers, pet owners, and veterinarians.
 
